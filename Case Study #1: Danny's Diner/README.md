@@ -37,4 +37,4 @@ Danny wants to use the data to answer a few simple questions about his customers
 11. Join All The Things - Create a table that has these columns: customer_id, order_date, product_name, price, member (Y/N).
 12. Rank All The Things - Based on the table above, add one column: ranking.
 
-Click [here](url) to view the solution solution of the case study!
+Click [here](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%3A%20Danny's%20Diner/query.sql) to view the solution solution of the case study!
