@@ -9,8 +9,8 @@ View the case study: [Case Study 1](https://8weeksqlchallenge.com/case-study-1/)
 # 📕 Table of Contents
 
 * [Bussiness Task](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%3A%20Danny's%20Diner/README.md#%EF%B8%8F-bussiness-task)
-* Entity Relationship Diagram
-* Case Study Questions
+*[ Entity Relationship Diagram](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%3A%20Danny's%20Diner/README.md#-entity-relationship-diagram)
+* [Case Study Questions]()
 
 # 🛠️ Bussiness Task
 
@@ -22,7 +22,7 @@ Danny wants to use the data to answer a few simple questions about his customers
   <img src="https://github.com/poojarao76/8-Week-SQL-Challenge/assets/132984172/c23cd6a8-6a9b-4ac7-a017-9e2dcb12889e" width="600" />
 </p>
 
-**Case study Questions:**
+# Case study Questions:
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
