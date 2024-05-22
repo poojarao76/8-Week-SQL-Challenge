@@ -8,7 +8,7 @@ View the case study: [Case Study 1](https://8weeksqlchallenge.com/case-study-1/)
 
 # 📕 Table of Contents
 
-* Bussiness Task
+* [Bussiness Task](Bussiness-Task)
 * Entity Relationship Diagram
 * Case Study Questions
 
