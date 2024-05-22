@@ -4,7 +4,7 @@
   <img src="https://github.com/poojarao76/8-Week-SQL-Challenge/assets/132984172/62d8af7b-edab-4257-a130-a2cb75b4f8b9" width="400" />
 </p>
 
-View the case study: [Case Study 1](url)
+View the case study: [Case Study 1](https://8weeksqlchallenge.com/case-study-1/)
 
 # 📕 Table of Contents
 
