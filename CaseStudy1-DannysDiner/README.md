@@ -54,6 +54,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     GROUP BY customer_id;
     ```
     ![image](https://github.com/user-attachments/assets/a989c668-891e-4d39-b145-1be419ffffb0)
+
     
 2. What was the first item from the menu purchased by each customer?
 
@@ -77,7 +78,9 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     GROUP BY o.customer_id, o.order_date, m.product_name;
     ```
 
-    ![alt text](../assets/image.png)
+    ![alt text](../assets/cs1/image.png)
+
+
 
 3. What is the most purchased item on the menu and how many times was it purchased by all customers?
 
@@ -89,7 +92,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     ORDER BY most_ordered DESC;
     ```
 
-    ![alt text](../assets\image-1.png)
+    ![alt text](../assets/cs1/image-1.png)
 
 
 4. Which item was the most popular for each customer?
@@ -107,7 +110,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     WHERE rank=1;
     ```
 
-    ![alt text](../assets/image-2.png)
+    ![alt text](../assets/cs1/image-2.png)
 
 
 5. Which item was purchased first by the customer after they became a member?
@@ -127,7 +130,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     WHERE rnk=1;
     ```
 
-    ![alt text](../assets/image-3.png)
+    ![alt text](../assets/cs1/image-3.png)
 
 6. Which item was purchased just before the customer became a member?
 
@@ -146,7 +149,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     where rank = 1;
     ```
 
-    ![alt text](../assets/image-4.png)
+    ![alt text](../assets/cs1/image-4.png)
 
 
 7. What is the total items and amount spent for each member before they became a member?
@@ -162,7 +165,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     GROUP BY s.customer_id;
     ```
 
-    ![alt text](../assets/image-5.png)
+    ![alt text](../assets/cs1/image-5.png)
 
 8. If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 
@@ -177,7 +180,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     GROUP BY s.customer_id;
     ```
 
-    ![alt text](../assets/image-6.png)
+    ![alt text](../assets/cs1/image-6.png)
 
 9. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
 
@@ -199,7 +202,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     GROUP BY p.customer_id;
     ```
 
-    ![alt text](../assets/image-7.png)
+    ![alt text](../assets/cs1/image-7.png)
 
 10. Join All The Things - Create a table that has these columns: customer_id, order_date, product_name, price, member (Y/N).
 
@@ -214,7 +217,7 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     ON s.customer_id=mm.customer_id
     ```
 
-    ![alt text](../assets/image-8.png)
+    ![alt text](../assets/cs1/image-8.png)
 
 
 11.  Rank All The Things - Based on the table above, add one column: ranking.
@@ -237,4 +240,4 @@ Here is the [link](https://github.com/poojarao76/8-Week-SQL-Challenge/blob/main/
     FROM customersData;
     ```
 
-![alt text](../assets/image-9.png)
+![alt text](../assets/cs1/image-9.png)
