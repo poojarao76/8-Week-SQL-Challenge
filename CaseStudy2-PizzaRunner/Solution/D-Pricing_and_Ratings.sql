@@ -70,7 +70,6 @@ FROM #customer_orders_temp c
 SELECT *
 FROM #extrasBreak;
 
-
 -- Queries
 
 -- If a Meat Lovers pizza costs $12 and Vegetarian costs $10 and there were no charges for changes - how much money has Pizza Runner made so far if there are no delivery fees?
